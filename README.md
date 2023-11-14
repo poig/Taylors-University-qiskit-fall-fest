@@ -18,7 +18,7 @@ Join the Qbraid Discord Channel [here](https://discord.gg/sarQgNys) && Qiskit Sl
 
 | Section  | Time |
 | ------------- | ------------- |
-| Introduciton to QC & QM  | 30min  |
+| Introduciton to QC  | 30min  |
 | Notebook exercise  | 1hr 15min  |
 | How to start your Quantum Journey  | 15min  |
 

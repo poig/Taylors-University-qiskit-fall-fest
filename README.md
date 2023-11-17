@@ -7,7 +7,7 @@ The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fes
 
 --------------------------------
 ## Official Registration
-- To officially sign up, register using [this link](https://forms.gle/GWeiwp6yzAdhmUGe6), so you can receive a certificate after the workshop!!!
+- To officially sign up, register using [this link](https://forms.gle/bTtaVAnm2HDUcgSm8), so you can receive a certificate after the workshop!!!
 
 Join the Qbraid Discord Channel [here](https://discord.gg/sarQgNys) && Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
@@ -23,7 +23,7 @@ Join the Qbraid Discord Channel [here](https://discord.gg/sarQgNys) && Qiskit Sl
 | How to start your Quantum Journey  | 15min  |
 
 
-Slide - [here](https://docs.google.com/presentation/d/1bCu2XDos6KbLCAMTuWvs4l5HiKEJ7CeF/edit?usp=sharing&ouid=105849947204735536236&rtpof=true&sd=true)
+Slide - [here](https://www.canva.com/design/DAF0YOT0_sw/BiAR8_HWEL5Rh6TYvrv8-A/edit?utm_content=DAF0YOT0_sw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Fall Fest Exercise
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/poig/Taylors-University-qiskit-fall-fest.git)
